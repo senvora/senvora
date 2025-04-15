@@ -1,4 +1,4 @@
-**Hi there, I'm Sandeep! 👋**
+**Hi there, I'm Senvora! 👋**
 
 👨‍💻 Passionate Developer | Tech Enthusiast | Problem Solver
 🌟 Turning ideas into code and code into solutions!
