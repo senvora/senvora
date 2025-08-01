@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo="" tvg-chno="236" group-title="WorldWide",Sony PIX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://airtel.senvora.workers.dev/api/sandeep/key?channel=Sony%20Pix%20HD
-#EXTHTTP:https://airtel.senvora.workers.dev/api/sandeep/edge?channel=Sony%20Pix%20HD
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med15-2/sony_pix_hd/ndashhd/sony_pix_hd.mpd
